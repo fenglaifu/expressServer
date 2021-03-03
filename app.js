@@ -31,11 +31,17 @@ app.get("/api/workNotice/noticeDetail/:id", (request, response) =>{
 	const resultData = worknoticeData.find(item => item.id == id);
 	response.send(resultData);
 });
-app.get("/api/doc/doclist/:curPage/:pageSize", (request, response) =>{
-	response.send("Hello Express");
+app.get("/api/doc/doclist", (request, response) =>{
+	const curPage = Number(request.query.curPage);
+	const pageSize = Number(request.query.pageSize);
+	const offset = (curPage - 1) * pageSize;
+	const resultData = fileNamePathData.slice(offset, offset + pageSize);
+	response.send({data: resultData, total: fileNamePathData.length});
 });
 app.get("/api/docDetail/:id", (request, response) =>{
-	response.send("Hello Express");
+	const id = request.params.id;
+	const resultData = fileNamePathData.find(item => item.id == id);
+	response.send(resultData);
 });
 app.get("/", (request, response) =>{
 	response.send("Hello Express");

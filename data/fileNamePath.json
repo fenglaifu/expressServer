@@ -1,122 +1,142 @@
 [
 	{
 		"id": 1,
-		"fileName": "文件名1",
+		"label": "文件名1",
 		"filePath": "文件路径1",
-		"isDir": true
+		"isDir": true,
+		"children": []
 	},
 	{
 		"id": 2,
-		"fileName": "文件名2",
+		"label": "文件名2",
 		"filePath": "文件路径2",
-		"isDir": true
+		"isDir": true,
+		"children": []
 	},
 	{
 		"id": 3,
-		"fileName": "文件名3",
+		"label": "文件名3",
 		"filePath": "文件路径3",
-		"isDir": true
+		"isDir": true,
+		"children": []
 	},
 	{
 		"id": 4,
-		"fileName": "文件名4",
+		"label": "文件名4",
 		"filePath": "文件路径4",
-		"isDir": true
+		"isDir": true,
+		"children": []
 	},
 	{
 		"id": 5,
-		"fileName": "文件名5",
+		"label": "文件名5",
 		"filePath": "文件路径5",
-		"isDir": true
+		"isDir": true,
+		"children": []
 	},
 	{
 		"id": 6,
-		"fileName": "文件名6",
+		"label": "文件名6",
 		"filePath": "文件路径6",
-		"isDir": true
+		"isDir": true,
+		"children": []
 	},
 	{
 		"id": 7,
-		"fileName": "文件名7",
+		"label": "文件名7",
 		"filePath": "文件路径7",
-		"isDir": true
+		"isDir": true,
+		"children": []
 	},
 	{
 		"id": 8,
-		"fileName": "文件名8",
+		"label": "文件名8",
 		"filePath": "文件路径8",
-		"isDir": true
+		"isDir": true,
+		"children": []
 	},
 	{
 		"id": 9,
-		"fileName": "文件名9",
+		"label": "文件名9",
 		"filePath": "文件路径9",
-		"isDir": true
+		"isDir": true,
+		"children": []
 	},
 	{
 		"id": 10,
-		"fileName": "文件名10",
+		"label": "文件名10",
 		"filePath": "文件路径10",
-		"isDir": true
+		"isDir": true,
+		"children": []
 	},
 	{
 		"id": 11,
-		"fileName": "文件名11",
+		"label": "文件名11",
 		"filePath": "文件路径11",
-		"isDir": true
+		"isDir": true,
+		"children": []
 	},
 	{
 		"id": 12,
-		"fileName": "文件名12",
+		"label": "文件名12",
 		"filePath": "文件路径12",
-		"isDir": true
+		"isDir": true,
+		"children": []
 	},
 	{
 		"id": 13,
-		"fileName": "文件名13",
+		"label": "文件名13",
 		"filePath": "文件路径13",
-		"isDir": true
+		"isDir": true,
+		"children": []
 	},
 	{
 		"id": 14,
-		"fileName": "文件名14",
+		"label": "文件名14",
 		"filePath": "文件路径14",
-		"isDir": true
+		"isDir": true,
+		"children": []
 	},
 	{
 		"id": 15,
-		"fileName": "文件名15",
+		"label": "文件名15",
 		"filePath": "文件路径15",
-		"isDir": true
+		"isDir": true,
+		"children": []
 	},
 	{
 		"id": 16,
-		"fileName": "文件名16",
+		"label": "文件名16",
 		"filePath": "文件路径16",
-		"isDir": true
+		"isDir": true,
+		"children": []
 	},
 	{
 		"id": 17,
-		"fileName": "文件名17",
+		"label": "文件名17",
 		"filePath": "文件路径17",
-		"isDir": true
+		"isDir": true,
+		"children": []
 	},
 	{
 		"id": 18,
-		"fileName": "文件名18",
+		"label": "文件名18",
 		"filePath": "文件路径18",
-		"isDir": true
+		"isDir": true,
+		"children": []
 	},
 	{
 		"id": 19,
-		"fileName": "文件名19",
+		"label": "文件名19",
 		"filePath": "文件路径19",
-		"isDir": true
+		"isDir": true,
+		"children": []
 	},
 	{
 		"id": 20,
-		"fileName": "文件名20",
+		"label": "文件名20",
 		"filePath": "文件路径20",
-		"isDir": true
+		"isDir": true,
+		"children": []
 	}
 ]
